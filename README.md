@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Shilpavijay2
+- 👋 Hi, I’m @Shilpasajjan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Shilpavijay2/Shilpavijay2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shilpavijay2/Shilpasajjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # -*- coding: utf-8 -*-
